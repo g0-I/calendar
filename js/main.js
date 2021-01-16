@@ -117,7 +117,6 @@ console.clear();
       year--;
       month = 11;
     }
-
     createCalendar();
   });
 
@@ -127,7 +126,6 @@ console.clear();
       year++;
       month = 0;
     }
-
     createCalendar();
   });
 
