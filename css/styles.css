@@ -8,8 +8,7 @@ table {
   border: 2px solid #eee;
 }
 
-thead,
-tfoot {
+thead,tfoot{
   background: #eee;
 }
 
