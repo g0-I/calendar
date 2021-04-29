@@ -37,9 +37,7 @@ td.today {
   font-weight: bold;
 }
 
-#prev,
-#next,
-#today {
+#prev,#next,#today {
   cursor: pointer;
   user-select: none;
 }
