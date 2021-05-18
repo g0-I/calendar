@@ -13,6 +13,7 @@ console.clear();
     const n = new Date(year, month, 1).getDay();
 
     for (let i = 0; i < n; i++) {
+      
       // 30
       // 29, 30
       // 28, 29, 30
